@@ -1,0 +1,43 @@
+
+############11/07/2022 18:06:21#############
+Evaluation latency = 0.000596037247532248
+Evaluation reward = 1822.7734810625857
+Program Executed in 3957.9159091439997
+Cloud Num = 1
+Core Num = 3
+AccessNetwork Num = 8
+Cloud Capacity = [3000000]
+Core capacity = [270000, 270000, 270000]
+Acces capacity = [[30000, 30000, 30000, 30000, 30000, 30000, 30000, 30000], [30000, 30000, 30000, 30000, 30000, 30000, 30000, 30000], [30000, 30000, 30000, 30000, 30000, 30000, 30000, 30000]]
+Arrival Traffic = (30000, 60000, 30000, 60000, 30000, 60000, 30000, 60000)
+Traffic = [array([29893, 60093, 29914, 60094, 30012, 60315, 30102, 59779]), array([30253, 59976, 30181, 59965, 30175, 59848, 29878, 59959]), array([29954, 59845, 30000, 60034, 30070, 59564, 29944, 60123])]
+Trafic Distribution in AccNetwork = [[0, 0, 0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 0, 0, 0, 0], [60123.0, 59845.0, 30070.0, 0.0, 0.0, 0.0, 0.0, 89564.0]]
+Trafic Distribution in CoreNetwork = [89988.0, 0.0, 0.0]
+Trafic Distribution in Cloud = [29944.0]
+Evaluation Frequency = 100
+Discount factor (gamma) = 0.99
+State Dimantions = 116
+Number of Actions = 12
+Number of Critic Actions =96
+
+
+############25/07/2022 14:49:45#############
+Evaluation latency = 0.0006275741762220867
+Evaluation reward = 1814.9242190307516
+Program Executed in 3979.162446813003
+Cloud Num = 1
+Core Num = 3
+AccessNetwork Num = 8
+Cloud Capacity = [3000000]
+Core capacity = [270000, 270000, 270000]
+Acces capacity = [[30000, 30000, 30000, 30000, 30000, 30000, 30000, 30000], [30000, 30000, 30000, 30000, 30000, 30000, 30000, 30000], [30000, 30000, 30000, 30000, 30000, 30000, 30000, 30000]]
+Arrival Traffic = (30000, 60000, 30000, 60000, 30000, 60000, 30000, 60000)
+Traffic = [array([29893, 60093, 29914, 60094, 30012, 60315, 30102, 59779]), array([30253, 59976, 30181, 59965, 30175, 59848, 29878, 59959]), array([29954, 59845, 30000, 60034, 30070, 59564, 29944, 60123])]
+Trafic Distribution in AccNetwork = [[603150.0, 600940.0, 298930.0, 597790.0, 0.0, 0.0, 600930.0, 0.0], [599760.0, 0.0, 0.0, 302530.0, 0.0, 0.0, 600590.0, 0.0], [598450.0, 1195980.0, 300000.0, 299540.0, 601230.0, 0.0, 0.0, 0.0]]
+Trafic Distribution in CoreNetwork = [1199490.0, 1198070.0, 599560.0]
+Trafic Distribution in Cloud = [602770.0]
+Evaluation Frequency = 100
+Discount factor (gamma) = 0.99
+State Dimantions = 116
+Number of Actions = 12
+Number of Critic Actions =96

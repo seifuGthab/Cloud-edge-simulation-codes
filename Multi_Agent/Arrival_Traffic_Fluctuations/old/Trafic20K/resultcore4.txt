@@ -1,0 +1,37 @@
+
+############09/09/2022 11:47:44#############
+Evaluation latency = 0.00028358124959742404
+Evaluation reward = 8818.081468854292
+Arrival Traffic = (20000, 20000, 20000, 20000, 20000, 20000, 20000, 20000)
+State Dimantions = 125
+Number of Actions = 13
+Number of Critic Actions =104
+
+
+############09/09/2022 13:33:21#############
+Evaluation latency = 0.0004155443210043544
+Evaluation reward = 6017.009119340919
+Arrival Traffic = (80000, 80000, 80000, 80000, 80000, 80000, 80000, 80000)
+State Dimantions = 125
+Number of Actions = 13
+Number of Critic Actions =104
+
+
+############09/09/2022 15:09:11#############
+Evaluation latency = 0.0003578589020012712
+Evaluation reward = 6987.170545497737
+Arrival Traffic = (60000, 60000, 60000, 60000, 60000, 60000, 60000, 60000)
+State Dimantions = 125
+Number of Actions = 13
+Number of Critic Actions =104
+Lam =(60000, 60000, 60000, 60000, 60000, 60000, 60000, 60000)
+
+
+############09/09/2022 16:45:54#############
+Evaluation latency = 0.00031569870562133377
+Evaluation reward = 7920.689600798409
+Arrival Traffic = (40000, 40000, 40000, 40000, 40000, 40000, 40000, 40000)
+State Dimantions = 125
+Number of Actions = 13
+Number of Critic Actions =104
+Lam =(40000, 40000, 40000, 40000, 40000, 40000, 40000, 40000)

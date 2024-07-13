@@ -1,0 +1,25 @@
+
+############06/09/2022 21:37:33#############
+Evaluation latency = 0.0003734184594849129
+Evaluation reward = 9342.05178420073
+Max_value = 841230.4154250965
+index = 583
+Decision Time:0.0013840930005244445
+Step Decision Time:0.042497626999647764
+Program Executed in 2983.8112590490005
+Cloud Num = 1
+Core Num = 3
+AccessNetwork Num = 8
+Cloud Capacity = [3000000]
+Core capacity = [270000, 270000, 270000]
+Acces capacity = [[30000, 30000, 30000, 30000, 30000, 30000, 30000, 30000], [30000, 30000, 30000, 30000, 30000, 30000, 30000, 30000], [30000, 30000, 30000, 30000, 30000, 30000, 30000, 30000]]
+Arrival Traffic = (40000, 80000, 40000, 80000, 40000, 80000, 40000, 80000)
+Trafic Distribution in AccNetwork = [[4806.0, 4806.0, 4806.0, 4806.0, 4806.0, 4806.0, 4806.0, 4806.0], [4805.0, 4805.0, 4805.0, 4805.0, 4805.0, 4805.0, 4805.0, 4805.0], [4813.0, 4813.0, 4813.0, 4813.0, 4813.0, 4813.0, 4813.0, 4813.0]]
+Sum =: 115392.0
+Trafic Distribution in CoreNetwork = [14424.0, 14424.0, 14424.0]
+Sum =: 43272.0
+Trafic Distribution in Cloud = [14424.0]
+Sum =: 14424.0
+State Dimantions = 116
+Number of Actions = 12
+Number of Critic Actions =96

@@ -1,0 +1,8 @@
+
+############24/09/2022 19:35:09#############
+Evaluation latency = 2601.6519024616755
+Evaluation reward = 0.00015536235527874892
+Arrival Traffic = (80000, 80000, 80000, 80000, 80000, 80000, 80000, 80000)
+State Dimantions = 125
+Number of Actions = 13
+Number of Critic Actions =104

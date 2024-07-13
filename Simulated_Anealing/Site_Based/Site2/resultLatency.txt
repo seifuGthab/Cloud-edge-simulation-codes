@@ -1,0 +1,176 @@
+
+############15/08/2022 23:22:15#############
+Total Latency= 0.005913277398271474Total Reward= 169.1109570290602
+Step_decision_time 0.04940955900019617
+Max reward 177.75252212421307
+Index_Values 499
+Decision_time in 2606.917705060001
+
+Cloud Num = 1
+Core Num = 2
+Access Num = 8
+Traffic = (40000, 80000, 40000, 80000, 40000, 80000, 40000, 80000)
+Trafic Distribution in AccNetwork = 415810.0
+Trafic Distribution in CoreNetwork = 384446.0
+Trafic Distribution in Cloud = 160719.0
+
+
+############16/08/2022 11:34:31#############
+Total Latency= 0.005894512714815148Total Reward= 169.64930747992457
+Step_decision_time 0.04503764200489968
+Max reward 170.32659082201496
+Index_Values 526
+Decision_time in 2419.9549054860036
+
+Cloud Num = 1
+Core Num = 2
+Access Num = 8
+Traffic = (40000, 80000, 40000, 80000, 40000, 80000, 40000, 80000)
+Trafic Distribution in AccNetwork = 393358.0
+Trafic Distribution in CoreNetwork = 416345.0
+Trafic Distribution in Cloud = 147273.0
+
+
+############17/08/2022 01:23:20#############
+Total Latency= 0.007368234908609743Total Reward= 135.71771426987286
+Step_decision_time 0.049021296988939866
+Max reward 145.371108355678
+Index_Values 1153
+Decision_time in 5872.824122676
+
+Cloud Num = 1
+Core Num = 2
+Access Num = 8
+Traffic = (40000, 80000, 40000, 80000, 40000, 80000, 40000, 80000)
+Trafic Distribution in AccNetwork = 413528.0
+Trafic Distribution in CoreNetwork = 355814.0
+Trafic Distribution in Cloud = 191633.0
+
+
+############17/08/2022 13:07:07#############
+Total Latency= 0.003142717241276854Total Reward= 318.19598240206625
+Step_decision_time 0.05038126397994347
+Max reward 343.8871995570633
+Index_Values 42
+Decision_time in 3363.5631637790066
+
+Cloud Num = 1
+Core Num = 2
+Access Num = 8
+Traffic = (40000, 80000, 40000, 80000, 40000, 80000, 40000, 80000)
+Trafic Distribution in AccNetwork = 612191.0
+Trafic Distribution in CoreNetwork = 216631.0
+Trafic Distribution in Cloud = 130977.0
+
+
+############17/08/2022 14:05:52#############
+Total Latency= 0.004183639188305989Total Reward= 239.0263488293103
+Step_decision_time 0.04743610598961823
+Max reward 495.32212606541833
+Index_Values 67
+Decision_time in 3218.6302772200142
+
+Cloud Num = 1
+Core Num = 2
+Access Num = 8
+Traffic = (40000, 80000, 40000, 80000, 40000, 80000, 40000, 80000)
+Trafic Distribution in AccNetwork = 408938.0
+Trafic Distribution in CoreNetwork = 379547.0
+Trafic Distribution in Cloud = 172495.0
+
+
+############17/08/2022 15:25:29#############
+Total Latency= 0.006931666742283341Total Reward= 144.26544685132868
+Step_decision_time 0.04549942899029702
+Max reward 148.8843063051956
+Index_Values 633
+Decision_time in 3116.8996008200047
+
+Cloud Num = 1
+Core Num = 2
+Access Num = 8
+Traffic = (40000, 80000, 40000, 80000, 40000, 80000, 40000, 80000)
+Trafic Distribution in AccNetwork = 438006.0
+Trafic Distribution in CoreNetwork = 334408.0
+Trafic Distribution in Cloud = 189363.0
+
+
+############17/08/2022 17:53:22#############
+Total Latency= 0.006691913025557639Total Reward= 149.43409996227047
+Step_decision_time 0.05388875800417736
+Max reward 153.40566436146392
+Index_Values 1130
+Decision_time in 5537.088048545003
+
+Cloud Num = 1
+Core Num = 2
+Access Num = 8
+Traffic = (40000, 80000, 40000, 80000, 40000, 80000, 40000, 80000)
+Trafic Distribution in AccNetwork = 384604.0
+Trafic Distribution in CoreNetwork = 360783.0
+Trafic Distribution in Cloud = 215582.0
+
+
+############20/08/2022 00:37:46#############
+Total Latency= 0.006879488356806205Total Reward= 145.35964713286452
+Step_decision_time 0.049259223000262864
+Max reward 149.40133277534903
+Index_Values 908
+Program Executed in 4835.77173231999
+
+Cloud Num = 1
+Core Num = 2
+Access Num = 8
+Traffic = (40000, 80000, 40000, 80000, 40000, 80000, 40000, 80000)
+Trafic Distribution in AccNetwork = 401558.0
+Trafic Distribution in CoreNetwork = 371824.0
+Trafic Distribution in Cloud = 187191.0
+
+
+############22/08/2022 13:15:33#############
+Total Latency= 0.012057736317723932Total Reward= 82.93430654393048
+Step_decision_time 0.050866309997218195
+Max reward 83.7943132773906
+Index_Values 1138
+Program Executed in 5827.908125130998
+
+Cloud Num = 1
+Core Num = 2
+Access Num = 8
+Traffic = (80000, 80000, 80000, 80000, 80000, 80000, 80000, 80000)
+Trafic Distribution in AccNetwork = 312417.0
+Trafic Distribution in CoreNetwork = 0.0
+Trafic Distribution in Cloud = 966124.0
+
+
+############27/08/2022 17:21:32#############
+Total Latency= 0.006890001616273385Total Reward= 145.13784694013944
+Step_decision_time 0.049149250000482425
+Max reward 154.51247986231797
+Index_Values 1135
+Program Executed in 5902.41713058899
+
+Cloud Num = 1
+Core Num = 2
+Access Num = 8
+Traffic = (40000, 80000, 40000, 80000, 40000, 80000, 40000, 80000)
+Trafic Distribution in AccNetwork = 0
+Trafic Distribution in CoreNetwork = 0
+Trafic Distribution in Cloud = 0
+
+
+############30/12/2022 22:28:19#############
+Total Latency= 0.0020627710916873115Total Reward= 484.78476551754324
+Step_decision_time 0.046318560000145226
+Max reward 1422.3624072797024
+Index_Values 0
+Program Executed in 5530.716124754
+
+Cloud Num = 1
+Core Num = 2
+Access Num = 8
+Traffic = (4000, 8000, 4000, 8000, 4000, 8000, 4000, 8000)
+Trafic Distribution in AccNetwork = 0
+Trafic Distribution in CoreNetwork = 0
+Trafic Distribution in Cloud = 0
+0

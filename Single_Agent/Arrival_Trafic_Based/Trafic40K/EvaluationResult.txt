@@ -1,0 +1,23 @@
+
+############27/09/2022 21:38:34#############
+Evaluation latency = 7925.399534064134
+Arrival Traffic = (40000, 40000, 40000, 40000, 40000, 40000, 40000, 40000)
+State Dimantions = 485
+Number of Actions = 13
+Number of Critic Actions =416
+
+
+############27/09/2022 23:04:41#############
+Evaluation latency = 7925.399534064134
+Arrival Traffic = (40000, 40000, 40000, 40000, 40000, 40000, 40000, 40000)
+State Dimantions = 485
+Number of Actions = 13
+Number of Critic Actions =416
+
+
+############27/09/2022 23:13:03#############
+Evaluation latency = 7925.399534064134
+Arrival Traffic = (40000, 40000, 40000, 40000, 40000, 40000, 40000, 40000)
+State Dimantions = 485
+Number of Actions = 13
+Number of Critic Actions =416

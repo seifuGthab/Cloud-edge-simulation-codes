@@ -1,0 +1,285 @@
+
+############31/07/2022 22:38:23#############
+Evaluation latency = 0.00037916591784815793
+Evaluation reward = 13838.05039318082
+Max_value = 13840.094001129832
+index = 10
+Decision Time:0.001207909001095686
+Step Decision Time:0.028039155004080385
+Program Executed in 127.30985559499823
+Cloud Num = 1
+Core Num = 2
+AccessNetwork Num = 8
+Cloud Capacity = [2998381.0]
+Core capacity = [268381.0, 268381.0]
+Acces capacity = [[29193.0, 29193.0, 29193.0, 29193.0, 29193.0, 29193.0, 29193.0, 29193.0], [29188.0, 29188.0, 29188.0, 29188.0, 29188.0, 29188.0, 29188.0, 29188.0]]
+Arrival Traffic = (10000, 10000, 10000, 10000, 10000, 10000, 10000, 10000)
+Trafic Distribution in AccNetwork = [[807.0, 807.0, 807.0, 807.0, 807.0, 807.0, 807.0, 807.0], [812.0, 812.0, 812.0, 812.0, 812.0, 812.0, 812.0, 812.0]]
+Sum =: 12952.0
+Trafic Distribution in CoreNetwork = [1619.0, 1619.0]
+Sum =: 3238.0
+Trafic Distribution in Cloud = [1619.0]
+Sum =: 1619.0
+State Dimantions = 107
+Number of Actions = 11
+Number of Critic Actions =88
+
+
+############31/07/2022 22:46:27#############
+Evaluation latency = 0.0004939069891112104
+Evaluation reward = 10829.006620196995
+Max_value = 10841.081120363584
+index = 10
+Decision Time:0.0011068880048696883
+Step Decision Time:0.027233655004238244
+Program Executed in 124.696444727997
+Cloud Num = 1
+Core Num = 2
+AccessNetwork Num = 8
+Cloud Capacity = [2967620.0]
+Core capacity = [237620.0, 237620.0]
+Acces capacity = [[13860.0, 13860.0, 13860.0, 13860.0, 13860.0, 13860.0, 13860.0, 13860.0], [13760.0, 13760.0, 13760.0, 13760.0, 13760.0, 13760.0, 13760.0, 13760.0]]
+Arrival Traffic = (10000, 10000, 10000, 10000, 10000, 10000, 10000, 10000)
+Trafic Distribution in AccNetwork = [[16140.0, 16140.0, 16140.0, 16140.0, 16140.0, 16140.0, 16140.0, 16140.0], [16240.0, 16240.0, 16240.0, 16240.0, 16240.0, 16240.0, 16240.0, 16240.0]]
+Sum =: 259040.0
+Trafic Distribution in CoreNetwork = [32380.0, 32380.0]
+Sum =: 64760.0
+Trafic Distribution in Cloud = [32380.0]
+Sum =: 32380.0
+State Dimantions = 107
+Number of Actions = 11
+Number of Critic Actions =88
+
+
+############31/07/2022 23:18:02#############
+Evaluation latency = 0.0003797421706727155
+Evaluation reward = 13801.091259318293
+Max_value = 13803.14115479482
+index = 10
+Decision Time:0.0011678760056383908
+Step Decision Time:0.026967352998326533
+Program Executed in 125.02348255299876
+Cloud Num = 1
+Core Num = 2
+AccessNetwork Num = 8
+Cloud Capacity = [2998381.0]
+Core capacity = [268381.0, 268381.0]
+Acces capacity = [[29193.0, 29193.0, 29193.0, 29193.0, 29193.0, 29193.0, 29193.0, 29193.0], [29188.0, 29188.0, 29188.0, 29188.0, 29188.0, 29188.0, 29188.0, 29188.0]]
+Arrival Traffic = (10000, 10000, 10000, 10000, 10000, 10000, 10000, 10000)
+Trafic Distribution in AccNetwork = [[807.0, 807.0, 807.0, 807.0, 807.0, 807.0, 807.0, 807.0], [812.0, 812.0, 812.0, 812.0, 812.0, 812.0, 812.0, 812.0]]
+Sum =: 12952.0
+Trafic Distribution in CoreNetwork = [1619.0, 1619.0]
+Sum =: 3238.0
+Trafic Distribution in Cloud = [1619.0]
+Sum =: 1619.0
+State Dimantions = 107
+Number of Actions = 11
+Number of Critic Actions =88
+
+
+############31/07/2022 23:26:02#############
+Evaluation latency = 0.0003798827976969231
+Evaluation reward = 13836.09516724378
+Max_value = 13838.027636003011
+index = 4
+Decision Time:0.0010598590015433729
+Step Decision Time:0.02683149000222329
+Program Executed in 124.85300442000153
+Cloud Num = 1
+Core Num = 2
+AccessNetwork Num = 8
+Cloud Capacity = [2998381.0]
+Core capacity = [268381.0, 268381.0]
+Acces capacity = [[29193.0, 29193.0, 29193.0, 29193.0, 29193.0, 29193.0, 29193.0, 29193.0], [29188.0, 29188.0, 29188.0, 29188.0, 29188.0, 29188.0, 29188.0, 29188.0]]
+Arrival Traffic = (10000, 10000, 10000, 10000, 10000, 10000, 10000, 10000)
+Trafic Distribution in AccNetwork = [[807.0, 807.0, 807.0, 807.0, 807.0, 807.0, 807.0, 807.0], [812.0, 812.0, 812.0, 812.0, 812.0, 812.0, 812.0, 812.0]]
+Sum =: 12952.0
+Trafic Distribution in CoreNetwork = [1619.0, 1619.0]
+Sum =: 3238.0
+Trafic Distribution in Cloud = [1619.0]
+Sum =: 1619.0
+State Dimantions = 107
+Number of Actions = 11
+Number of Critic Actions =88
+
+
+############31/07/2022 23:31:02#############
+Evaluation latency = 0.0003800512069986737
+Evaluation reward = 13807.735285215962
+Max_value = 13809.632539787304
+index = 10
+Decision Time:0.0010900289998971857
+Step Decision Time:0.02701675899879774
+Program Executed in 125.07416562300205
+Cloud Num = 1
+Core Num = 2
+AccessNetwork Num = 8
+Cloud Capacity = [2998381.0]
+Core capacity = [268381.0, 268381.0]
+Acces capacity = [[29193.0, 29193.0, 29193.0, 29193.0, 29193.0, 29193.0, 29193.0, 29193.0], [29188.0, 29188.0, 29188.0, 29188.0, 29188.0, 29188.0, 29188.0, 29188.0]]
+Arrival Traffic = (10000, 10000, 10000, 10000, 10000, 10000, 10000, 10000)
+Trafic Distribution in AccNetwork = [[807.0, 807.0, 807.0, 807.0, 807.0, 807.0, 807.0, 807.0], [812.0, 812.0, 812.0, 812.0, 812.0, 812.0, 812.0, 812.0]]
+Sum =: 12952.0
+Trafic Distribution in CoreNetwork = [1619.0, 1619.0]
+Sum =: 3238.0
+Trafic Distribution in Cloud = [1619.0]
+Sum =: 1619.0
+State Dimantions = 107
+Number of Actions = 11
+Number of Critic Actions =88
+
+
+############01/08/2022 15:23:11#############
+Evaluation latency = 0.00048361184277378143
+Evaluation reward = 10643.28215579622
+Max_value = 10644.149871979538
+index = 25
+Decision Time:0.0010935580066870898
+Step Decision Time:0.027041039007599466
+Program Executed in 1244.7527138620062
+Cloud Num = 1
+Core Num = 2
+AccessNetwork Num = 8
+Cloud Capacity = [2990392.0]
+Core capacity = [260392.0, 260392.0]
+Acces capacity = [[25194.0, 25194.0, 25194.0, 25194.0, 25194.0, 25194.0, 25194.0, 25194.0], [25198.0, 25198.0, 25198.0, 25198.0, 25198.0, 25198.0, 25198.0, 25198.0]]
+Arrival Traffic = (40000, 80000, 40000, 80000, 40000, 80000, 40000, 80000)
+Trafic Distribution in AccNetwork = [[4806.0, 4806.0, 4806.0, 4806.0, 4806.0, 4806.0, 4806.0, 4806.0], [4802.0, 4802.0, 4802.0, 4802.0, 4802.0, 4802.0, 4802.0, 4802.0]]
+Sum =: 76864.0
+Trafic Distribution in CoreNetwork = [9608.0, 9608.0]
+Sum =: 19216.0
+Trafic Distribution in Cloud = [9608.0]
+Sum =: 9608.0
+State Dimantions = 107
+Number of Actions = 11
+Number of Critic Actions =88
+
+
+############21/08/2022 22:41:18#############
+Evaluation latency = 0.004842033987360949
+Evaluation reward = 10647.537178831364
+Max_value = 428743.3346079949
+index = 2
+Decision Time:0.001342913999906159
+Step Decision Time:0.02807166699994923
+Program Executed in 12.855741289999969
+Cloud Num = 1
+Core Num = 2
+AccessNetwork Num = 8
+Cloud Capacity = [2990373.0]
+Core capacity = [260373.0, 260373.0]
+Acces capacity = [[25189.0, 25189.0, 25189.0, 25189.0, 25189.0, 25189.0, 25189.0, 25189.0], [25184.0, 25184.0, 25184.0, 25184.0, 25184.0, 25184.0, 25184.0, 25184.0]]
+Arrival Traffic = (40000, 80000, 40000, 80000, 40000, 80000, 40000, 80000)
+Trafic Distribution in AccNetwork = [[4811.0, 4811.0, 4811.0, 4811.0, 4811.0, 4811.0, 4811.0, 4811.0], [4816.0, 4816.0, 4816.0, 4816.0, 4816.0, 4816.0, 4816.0, 4816.0]]
+Sum =: 77016.0
+Trafic Distribution in CoreNetwork = [9627.0, 9627.0]
+Sum =: 19254.0
+Trafic Distribution in Cloud = [9627.0]
+Sum =: 9627.0
+State Dimantions = 211
+Number of Actions = 11
+Number of Critic Actions =88
+
+
+############21/08/2022 22:47:47#############
+Evaluation latency = 0.004823671138712137
+Evaluation reward = 10674.736366397821
+Max_value = 429870.3390385191
+index = 2
+Decision Time:0.001372021999941353
+Step Decision Time:0.027780009000252903
+Program Executed in 14.270075690999874
+Cloud Num = 1
+Core Num = 2
+AccessNetwork Num = 8
+Cloud Capacity = [2990373.0]
+Core capacity = [260373.0, 260373.0]
+Acces capacity = [[25189.0, 25189.0, 25189.0, 25189.0, 25189.0, 25189.0, 25189.0, 25189.0], [25184.0, 25184.0, 25184.0, 25184.0, 25184.0, 25184.0, 25184.0, 25184.0]]
+Arrival Traffic = (40000, 80000, 40000, 80000, 40000, 80000, 40000, 80000)
+Trafic Distribution in AccNetwork = [[4811.0, 4811.0, 4811.0, 4811.0, 4811.0, 4811.0, 4811.0, 4811.0], [4816.0, 4816.0, 4816.0, 4816.0, 4816.0, 4816.0, 4816.0, 4816.0]]
+Sum =: 77016.0
+Trafic Distribution in CoreNetwork = [9627.0, 9627.0]
+Sum =: 19254.0
+Trafic Distribution in Cloud = [9627.0]
+Sum =: 9627.0
+State Dimantions = 107
+Number of Actions = 11
+Number of Critic Actions =88
+
+
+############22/08/2022 19:48:38#############
+Evaluation latency = 0.0048139186630036905
+Evaluation reward = 10698.774567119355
+Max_value = 432994.1366571106
+index = 384
+Decision Time:0.0015298750076908618
+Step Decision Time:0.028012216003844514
+Program Executed in 1709.2993537090078
+Cloud Num = 1
+Core Num = 2
+AccessNetwork Num = 8
+Cloud Capacity = [2990392.0]
+Core capacity = [260392.0, 260392.0]
+Acces capacity = [[25194.0, 25194.0, 25194.0, 25194.0, 25194.0, 25194.0, 25194.0, 25194.0], [25198.0, 25198.0, 25198.0, 25198.0, 25198.0, 25198.0, 25198.0, 25198.0]]
+Arrival Traffic = (40000, 80000, 40000, 80000, 40000, 80000, 40000, 80000)
+Trafic Distribution in AccNetwork = [[4806.0, 4806.0, 4806.0, 4806.0, 4806.0, 4806.0, 4806.0, 4806.0], [4802.0, 4802.0, 4802.0, 4802.0, 4802.0, 4802.0, 4802.0, 4802.0]]
+Sum =: 76864.0
+Trafic Distribution in CoreNetwork = [9608.0, 9608.0]
+Sum =: 19216.0
+Trafic Distribution in Cloud = [9608.0]
+Sum =: 9608.0
+State Dimantions = 107
+Number of Actions = 11
+Number of Critic Actions =88
+
+
+############23/08/2022 04:38:26#############
+Evaluation latency = 0.004817381743944467
+Evaluation reward = 10682.630484400066
+Max_value = 430491.70195434784
+index = 816
+Decision Time:0.3289719620079268
+Step Decision Time:0.028211972006829455
+Program Executed in 19097.156940627
+Cloud Num = 1
+Core Num = 2
+AccessNetwork Num = 8
+Cloud Capacity = [2990392.0]
+Core capacity = [260392.0, 260392.0]
+Acces capacity = [[25194.0, 25194.0, 25194.0, 25194.0, 25194.0, 25194.0, 25194.0, 25194.0], [25198.0, 25198.0, 25198.0, 25198.0, 25198.0, 25198.0, 25198.0, 25198.0]]
+Arrival Traffic = (40000, 80000, 40000, 80000, 40000, 80000, 40000, 80000)
+Trafic Distribution in AccNetwork = [[4806.0, 4806.0, 4806.0, 4806.0, 4806.0, 4806.0, 4806.0, 4806.0], [4802.0, 4802.0, 4802.0, 4802.0, 4802.0, 4802.0, 4802.0, 4802.0]]
+Sum =: 76864.0
+Trafic Distribution in CoreNetwork = [9608.0, 9608.0]
+Sum =: 19216.0
+Trafic Distribution in Cloud = [9608.0]
+Sum =: 9608.0
+State Dimantions = 107
+Number of Actions = 11
+Number of Critic Actions =88
+
+
+############23/08/2022 16:25:55#############
+Evaluation latency = 0.0009629650476375195
+Evaluation reward = 10690.568782555787
+Max_value = 431154.66503781517
+index = 384
+Decision Time:0.0016332519880961627
+Step Decision Time:0.028106859972467646
+Program Executed in 1416.916759257001
+Cloud Num = 1
+Core Num = 2
+AccessNetwork Num = 8
+Cloud Capacity = [2990392.0]
+Core capacity = [260392.0, 260392.0]
+Acces capacity = [[25194.0, 25194.0, 25194.0, 25194.0, 25194.0, 25194.0, 25194.0, 25194.0], [25198.0, 25198.0, 25198.0, 25198.0, 25198.0, 25198.0, 25198.0, 25198.0]]
+Arrival Traffic = (40000, 80000, 40000, 80000, 40000, 80000, 40000, 80000)
+Trafic Distribution in AccNetwork = [[4806.0, 4806.0, 4806.0, 4806.0, 4806.0, 4806.0, 4806.0, 4806.0], [4802.0, 4802.0, 4802.0, 4802.0, 4802.0, 4802.0, 4802.0, 4802.0]]
+Sum =: 76864.0
+Trafic Distribution in CoreNetwork = [9608.0, 9608.0]
+Sum =: 19216.0
+Trafic Distribution in Cloud = [9608.0]
+Sum =: 9608.0
+State Dimantions = 107
+Number of Actions = 11
+Number of Critic Actions =88
